@@ -92,10 +92,3 @@ cacheSolve <- function(x, ...) {
   #Return the inverse
   minv
 }
-
-
-getMatrix <- function(x) {
-  
-  return(x$getinverse())
-  
-}
