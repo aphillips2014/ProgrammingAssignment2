@@ -46,8 +46,8 @@ makeCacheMatrix <- function(x = matrix()) {
   
   
   ###############################################################
-  # Name: setinverse                                            #
-  # Description: get and the inverse of a square matrix         #
+  # Name: getinverse                                            #
+  # Description: get the inverse of a square matrix         #
   ###############################################################
   
   getinverse <- function() 
